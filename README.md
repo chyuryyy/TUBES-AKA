@@ -1,7 +1,8 @@
 # TUBES-AKA
+
 Repository ini berisi source code Tugas Besar mata kuliah Analisis Kompleksitas Algoritma (AKA) CAK2BAB2 oleh dosen LDS. Dikerjakan oleh Kelompok AKA: Gharin Iskandar (103012400314) dan Yuriko Astiani (103012400045). Kami berharap tugas ini memenuhi spesifikasi dan tujuan pembelajaran.
 
-# Analisis Bilangan Monotonik (Iteratif vs Rekursif)
+# Analisis Efisiensi Algoritma Iteratif Dan Rekursif Dalam Pengecekan Bilangan Monotonik
 
 Aplikasi Streamlit untuk membandingkan efisiensi algoritma **iteratif** dan **rekursif** dalam mengecek apakah sebuah string digit bersifat:
 Tujuan aplikasi ini adalah menganalisis perbedaan efisiensi waktu dan penggunaan memori
